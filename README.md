@@ -27,4 +27,17 @@ drwxr-xr-x 7 ajikisan ajikisan   4096 Oct 31 12:52 ../
 -rw-r--r-- 1 ajikisan ajikisan  13592 Oct 31 12:52 pais.sql
 
 API Postman
+http://localhost:8080/countries/countries?page=0&size=10&sort=name, asc
+http://localhost:8080/cities
+tp://localhost:8080/states
+
+
 API Cloud Heroku
+
+https://glacial-anchorage-23325.herokuapp.com/distances/by-points?from=4929&to=5254
+https://glacial-anchorage-23325.herokuapp.com/distances/by-points?from=21359&to=4759
+https://glacial-anchorage-23325.herokuapp.com/distances/by-cube?from=3265&to=1452
+https://glacial-anchorage-23325.herokuapp.com/distances/by-cube?from=1567&to=3246&unit=MILES
+https://glacial-anchorage-23325.herokuapp.com/distances/by-cube?from=2567&to=2926&unit=KILOMETERS
+https://glacial-anchorage-23325.herokuapp.com/distances/by-cube?from=2237&to=4236&unit=METERS
+
